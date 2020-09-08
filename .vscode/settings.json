@@ -1,0 +1,8 @@
+{
+    "python.dataScience.jupyterServerURI": "local",
+    "files.exclude": {
+        "Lib/**": true,
+        "Scripts": true,
+        "Include": true,
+    }
+}
