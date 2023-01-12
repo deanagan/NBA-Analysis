@@ -1,2 +1,2 @@
-# python-food-notebook
-This is my python notebook on food data
+# NBA Analysis
+This is my python notebook on interesting NBA statistics
