@@ -1,8 +1,12 @@
 {
-    "python.dataScience.jupyterServerURI": "local",
-    "files.exclude": {
-        "Lib/**": true,
-        "Scripts": true,
-        "Include": true,
-    }
+  "python.dataScience.jupyterServerURI": "local",
+  "files.exclude": {
+    "Lib/**": true,
+    "Scripts": true,
+    "Include": true
+  },
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.autopep8"
+  },
+  "python.formatting.provider": "none"
 }

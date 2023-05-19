@@ -1,2 +1,4 @@
 # NBA Analysis
 This is my python notebook on interesting NBA statistics
+
+To launch venv, run activate.bat
