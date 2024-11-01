@@ -1,8 +1,26 @@
 {
-    "python.dataScience.jupyterServerURI": "local",
-    "files.exclude": {
-        "Lib/**": true,
-        "Scripts": true,
-        "Include": true,
-    }
+  "python.dataScience.jupyterServerURI": "local",
+  "files.exclude": {
+    "Lib/**": true,
+    "Scripts": false,
+    "Include": true
+  },
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.autopep8"
+  },
+  "python.formatting.provider": "none",
+
+  "python.autoComplete.addBrackets": "${workspaceFolder}/Lib/site-packages",
+  "python.analysis.completeFunctionParens": "${workspaceFolder}/Lib/site-packages",
+  "cSpell.words": [
+    "barh",
+    "barv",
+    "iloc",
+    "matplotlib",
+    "playercareerstats",
+    "pyplot",
+    "savefig",
+    "xlabel",
+    "ylabel"
+  ]
 }
