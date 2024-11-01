@@ -1,6 +1,8 @@
 # NBA Analysis
 This is my python notebook on interesting NBA statistics
 
+
+
 To launch venv, run activate.bat
 
 
@@ -9,3 +11,4 @@ To update package requirements:
 
 To install package requirements:
     pip install -r requirements.txt
+
