@@ -1,10 +1,10 @@
 # NBA Analysis
-=========================================================
+======================================================
 A Tutorial on using Graphs with react + microservices
-=========================================================
+======================================================
 
-Teach me how to make a graph and microservices project. Let's make a Golden State Warriors performance project. Treat me
-like I'm an analyst for a basketball team and I want to make a visual aid on the performance from the last 10 games
+Teach me how to make a graph and microservices project. Let's make an NBA team performance project. Treat me
+like I'm an analyst for a basketball team and I want to make a visual aid on the team performance from the last 10 games
 
 Steps:
 1. Installation (vite react18 typescript project with react-hook-form, zod, redux)
